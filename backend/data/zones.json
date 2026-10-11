@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ZONE-001",
+    "name": "Sector 62",
+    "city": "Noida",
+    "rainfall_mm": 145,
+    "water_level_percent": 88,
+    "drainage_capacity_mm": 80,
+    "historical_incidents": 8,
+    "population_exposure": 8500
+  },
+  {
+    "id": "ZONE-002",
+    "name": "Sector 18",
+    "city": "Noida",
+    "rainfall_mm": 65,
+    "water_level_percent": 42,
+    "drainage_capacity_mm": 110,
+    "historical_incidents": 2,
+    "population_exposure": 12000
+  },
+  {
+    "id": "ZONE-003",
+    "name": "Pari Chowk",
+    "city": "Greater Noida",
+    "rainfall_mm": 115,
+    "water_level_percent": 74,
+    "drainage_capacity_mm": 85,
+    "historical_incidents": 6,
+    "population_exposure": 6500
+  },
+  {
+    "id": "ZONE-004",
+    "name": "Knowledge Park",
+    "city": "Greater Noida",
+    "rainfall_mm": 35,
+    "water_level_percent": 25,
+    "drainage_capacity_mm": 100,
+    "historical_incidents": 1,
+    "population_exposure": 4000
+  },
+  {
+    "id": "ZONE-005",
+    "name": "Yamuna Expressway",
+    "city": "Greater Noida",
+    "rainfall_mm": 130,
+    "water_level_percent": 92,
+    "drainage_capacity_mm": 75,
+    "historical_incidents": 9,
+    "population_exposure": 7200
+  },
+  {
+    "id": "ZONE-006",
+    "name": "Alpha Commercial Belt",
+    "city": "Greater Noida",
+    "rainfall_mm": 85,
+    "water_level_percent": 58,
+    "drainage_capacity_mm": 90,
+    "historical_incidents": 4,
+    "population_exposure": 5500
+  }
+]

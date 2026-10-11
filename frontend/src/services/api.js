@@ -28,7 +28,7 @@ export function getHistoricalIntelligence(zoneId) {
 }
 
 export async function askFloodSenseAI(question) {
-  const response = await fetch("http://127.0.0.1:8000/ai/ask", {
+  const response = await fetch(`${API_BASE_URL}/ai/ask`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
